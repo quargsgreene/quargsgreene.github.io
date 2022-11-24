@@ -12,6 +12,6 @@ Undefined
 ---------
 
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
-* [Mustard Aquarium] (https://quargsgreene.github.io/Mustard-Aquarium/)
+* [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
 
 
