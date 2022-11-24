@@ -11,6 +11,6 @@ you may visit my artist website at [https://pixelatedflesh.com/](https://pixelat
 Undefined
 ---------
 
-* [Looping Shape Cereal] (https://quargsgreene.github.io/Looping-Shape-Cereal/)
+* [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 
 
