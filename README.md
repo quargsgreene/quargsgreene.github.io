@@ -16,7 +16,7 @@ Undefined
 
 Sex Appeal
 ----------
-* [Meat Suit Scrambler](https://quargsgreene.github.io/2/dist/index.html)
+* [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 * [Lyrics Game]
 
 Quarter-Life Crisis
