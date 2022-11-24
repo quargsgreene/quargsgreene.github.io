@@ -14,8 +14,15 @@ Undefined
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 * [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
 
+Sex Appeal
+----------
+* [Meat Suit Scrambler](https://quargsgreene.github.io/2/dist/index.html)
+* [Lyrics Game]
+
 Quarter-Life Crisis
 -------------------
 
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
+
+
