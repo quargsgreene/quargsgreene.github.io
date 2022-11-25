@@ -36,6 +36,6 @@ Cherry-Pie
 ----------
 
 * [Rotating Flesh Spirals]
-* [Equivocal Object Chimney]
+* [Equivocal Pixel Chimney]
 
 
