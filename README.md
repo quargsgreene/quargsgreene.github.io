@@ -35,7 +35,7 @@ Quarter-Life Crisis
 Cherry Pie
 ----------
 
-* [Rotating Flesh Spirals]
+* [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
 
