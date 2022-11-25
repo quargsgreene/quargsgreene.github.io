@@ -36,6 +36,6 @@ Cherry-Pie
 ----------
 
 * [Rotating Flesh Spirals]
-* [Equivocal Pixel Chimney]
+* [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
 
