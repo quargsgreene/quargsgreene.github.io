@@ -32,7 +32,7 @@ Quarter-Life Crisis
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
 
 
-Cherry-Pie
+Cherry Pie
 ----------
 
 * [Rotating Flesh Spirals]
