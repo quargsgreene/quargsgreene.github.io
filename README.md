@@ -25,4 +25,17 @@ Quarter-Life Crisis
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
+7991
+----
+
+* [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
+* [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
+
+
+Cherry-Pie
+----------
+
+* [Rotating Flesh Spirals]
+* [Equivocal Object Chimney]
+
 
