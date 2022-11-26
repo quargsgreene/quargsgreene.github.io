@@ -57,8 +57,8 @@ Eustachian Food Slide
 
 Special
 -------
-* [House Paint Dandruff]
-* [Discretely Moldy Orzo]
+* [House Paint Dandruff](https://quargsgreene.github.io/house-paint-dandruff/)
+* [Discretely Moldy Orzo](https://quargsgreene.github.io/discretely-moldy-orzo/)
 
 
 
