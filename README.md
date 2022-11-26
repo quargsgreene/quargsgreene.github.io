@@ -60,5 +60,10 @@ Special
 * [House Paint Dandruff](https://quargsgreene.github.io/house-paint-dandruff/)
 * [Discretely Moldy Orzo](https://quargsgreene.github.io/discretely-moldy-orzo/)
 
+Wasted
+------
+* [Misshapen Bolus](https://quargsgreene.github.io/misshapen-bolus/)
+* [Dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
+
 
 
