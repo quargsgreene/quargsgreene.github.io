@@ -10,7 +10,6 @@ you may visit my artist website at [https://pixelatedflesh.com/](https://pixelat
 
 Undefined
 ---------
-
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 * [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
 
@@ -55,6 +54,6 @@ Feelings Don't Care About Your Facts
 
 Eustachian Food Slide
 ---------------------
-* [Indefatigable Rotund Screen Insects]()
+* [Indefatigable Rotund Screen Insects](https://quargsgreene.github.io/indefatigable-rotund-screen-insects/)
 * []()
 
