@@ -31,11 +31,15 @@ Quarter-Life Crisis
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
 
-
 Cherry Pie
 ----------
 
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
+
+Don't Touch
+-----------
+* [Long Spider Leg Submersion]
+* [Tchnouodt52212012]
 
 
