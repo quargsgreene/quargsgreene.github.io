@@ -8,6 +8,8 @@ Non-Sequitur is an collection of songs which provides the listener an alternativ
 Eustachian Food Slide 
 ---------------------
 * [Listen to the whole song here](https://www.dropbox.com/s/5btburvpop4sp0n/Eustachian%20Food%20Slide%202%2048k%2010192022.mp3?dl=0)
+  Ever wonder what music could accompany the fantastical situation of food sliding unscathed down one's Eustachian tubes?
+  Well, now you know.
 
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 
