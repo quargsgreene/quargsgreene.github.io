@@ -41,6 +41,7 @@ Wasted
 Homeless
 --------
 * [Listen to the entire piece here](https://www.dropbox.com/s/ztpmuyrl7o2eypm/Homeless%20-%20Mya.mp3?dl=0)
+* [View the score](https://www.dropbox.com/s/e78f8l24oq6mmnq/Homeless%20Final%201-2.pdf?dl=0)
 
 Special
 -------
