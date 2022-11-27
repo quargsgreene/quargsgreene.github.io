@@ -30,7 +30,7 @@ Wasted
 
 astwed226011
 ------------
-* [Watch the entire video here](https://www.dropbox.com/s/ywsk6ulpaceshoe/FBE93560-832F-4D07-A526-7332AB9AC0CF.MOV?dl=0)
+* [Watch the entire video here](https://youtu.be/T9q97PY4oRA)
 
 Quarter-Life Crisis
 -------------------
