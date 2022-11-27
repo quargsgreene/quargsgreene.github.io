@@ -22,21 +22,21 @@ Sex Appeal
 * [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 * [Lyrics Game](https://quargsgreene.github.io/Lyrics-Game/)
 
-Quarter-Life Crisis
--------------------
-* [Listen to the whole song here](https://www.dropbox.com/s/5721119i0h3dsx4/Quarter-life%20Crisis%20v2%20reference.mp3?dl=0)
-* [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
-* [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
-
-astwed226011
-------------
-* [Watch the entire video here](https://www.dropbox.com/s/ywsk6ulpaceshoe/FBE93560-832F-4D07-A526-7332AB9AC0CF.MOV?dl=0)
-
 Wasted
 ------
 * [Listen to the whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
+
+astwed226011
+------------
+* [Watch the entire video here](https://www.dropbox.com/s/ywsk6ulpaceshoe/FBE93560-832F-4D07-A526-7332AB9AC0CF.MOV?dl=0)
+
+Quarter-Life Crisis
+-------------------
+* [Listen to the whole song here](https://www.dropbox.com/s/5721119i0h3dsx4/Quarter-life%20Crisis%20v2%20reference.mp3?dl=0)
+* [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
+* [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
 Homeless
 --------
