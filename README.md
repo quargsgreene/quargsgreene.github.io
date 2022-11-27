@@ -108,11 +108,15 @@ Special
   This is a love song.
   
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
+
   View the frequency at which each word within the lyrics occurs. You may also input a number of moles and find out how many ways you can arrange
   them in a circle. Screen reader users also have access to the number of occurrences of each word.
 
   
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
+
+  Have you ever wanted to use your cursor to sketch things using orange, translucent triangles? You have arrived at the correct location to do so.
+  Additionally, you may listen to a snippet of the above song and access a secret alert message using a screen reader.
 
 Cherry Stem
 -----------
