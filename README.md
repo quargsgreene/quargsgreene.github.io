@@ -8,7 +8,7 @@ Here, you will find a landing page for interactive installations which leverage 
 frequency data alongside other multimedia elements , along with descriptions of the motivation and intent behind each one. For alternate, more layperson oriented versions accompanied by less explanation, along with links to other social media platforms and updates regarding traditional music releases, 
 you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/). Below, you will find a section corresponding to each song accompanied by a listing of each installation associated with it.
 
-Undefined
+Eustachian Food Slide
 ---------
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 * [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
@@ -20,16 +20,15 @@ Sex Appeal
 
 Quarter-Life Crisis
 -------------------
-
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
-7991
+Special
 ----
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
 
-Cherry Pie
+Wasted
 ----------
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
@@ -38,32 +37,3 @@ Don't Touch
 -----------
 * [Long Spider Leg Submersion](https://quargsgreene.github.io/long-spider-leg-submersion/)
 * [Tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
-
-I Only Understand Train Station
--------------------------------
-* [Gibberish Generator](https://quargsgreene.github.io/gibberish-generator/)
-* [Daosoatiultnndtiyresainnntr02221125](https://quargsgreene.github.io/daosoatiultnndtiyresainnntr02221125/)
-
-Feelings Don't Care About Your Facts
-------------------------------------
-
-* [Rectangular Fizz Propagator](https://quargsgreene.github.io/rectangular-fizz-propagator/)
-* [Hairy Heavy Cream](https://quargsgreene.github.io/hairy-heavy-cream/)
-
-Eustachian Food Slide
----------------------
-* [Indefatigable Rotund Screen Insects](https://quargsgreene.github.io/indefatigable-rotund-screen-insects/)
-* [Ndtehosoalcsdieiuaf12522201](https://quargsgreene.github.io/ndtehosoalcsdieiuaf12522201/)
-
-Special
--------
-* [House Paint Dandruff](https://quargsgreene.github.io/house-paint-dandruff/)
-* [Discretely Moldy Orzo](https://quargsgreene.github.io/discretely-moldy-orzo/)
-
-Wasted
-------
-* [Misshapen Bolus](https://quargsgreene.github.io/misshapen-bolus/)
-* [Dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
-
-
-
