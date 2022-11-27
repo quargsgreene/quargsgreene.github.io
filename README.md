@@ -11,9 +11,9 @@ Eustachian Food Slide
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 * [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
 
-Homeless
---------
-* [Listen to the entire piece here](https://www.dropbox.com/s/ztpmuyrl7o2eypm/Homeless%20-%20Mya.mp3?dl=0)
+titatriadtoslnsnreydnuaonni22227101
+------------------------------------
+* [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
 
 Sex Appeal
 ----------
@@ -37,19 +37,19 @@ Wasted
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
-titatriadtoslnsnreydnuaonni22227101
-------------------------------------
-* [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
-
-Cherry Stem
------------
-* [Listen to the entire piece here](https://www.dropbox.com/s/850hjqyc14wbkfp/01022021%20Quargs%20Greene%20Cherry%20Stem%2015%20s%209%20.wav?dl=0)
+Homeless
+--------
+* [Listen to the entire piece here](https://www.dropbox.com/s/ztpmuyrl7o2eypm/Homeless%20-%20Mya.mp3?dl=0)
 
 Special
 -------
 * [Listen to the whole song here](https://www.dropbox.com/s/u3tsvszdcj5so5i/Special%2011262022.mp3?dl=0)
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
+
+Cherry Stem
+-----------
+* [Listen to the entire piece here](https://www.dropbox.com/s/850hjqyc14wbkfp/01022021%20Quargs%20Greene%20Cherry%20Stem%2015%20s%209%20.wav?dl=0)
 
 Don't Touch
 -----------
