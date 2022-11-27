@@ -54,7 +54,7 @@ Wasted
 ------
 * [Listen to the whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
   
- This song lyrically explores my journey of working to break the cycle of addiction within my family.
+  This song lyrically explores my journey of working to break the cycle of addiction within my family amid many meter changes.
   
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 
