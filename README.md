@@ -27,15 +27,27 @@ Quarter-Life Crisis
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
+astwed226011
+------------
+* [Watch the entire video here](https://www.dropbox.com/s/ywsk6ulpaceshoe/FBE93560-832F-4D07-A526-7332AB9AC0CF.MOV?dl=0)
+
 Wasted
 ------
-* [Listen to the Whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
+* [Listen to the whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
+titatriadtoslnsnreydnuaonni22227101
+------------------------------------
+* [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
+
+Cherry Stem
+-----------
+* [Listen to the entire piece here](https://www.dropbox.com/s/850hjqyc14wbkfp/01022021%20Quargs%20Greene%20Cherry%20Stem%2015%20s%209%20.wav?dl=0)
+
 Special
 -------
-* [Listen to the Whole song here](https://www.dropbox.com/s/u3tsvszdcj5so5i/Special%2011262022.mp3?dl=0)
+* [Listen to the whole song here](https://www.dropbox.com/s/u3tsvszdcj5so5i/Special%2011262022.mp3?dl=0)
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
 
@@ -43,7 +55,15 @@ Don't Touch
 -----------
 * [Listen to the whole song here](https://www.dropbox.com/s/l8irhx3ns0i6dyn/Don%27t%20Touch%20v2%2011262022.mp3?dl=0)
 * [Long Spider Leg Submersion](https://quargsgreene.github.io/long-spider-leg-submersion/)
-* [Tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
+* [tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
+
+42202011dthncutoo
+-----------------
+* [Listen to the whole song here](https://youtu.be/ENsHo1oKV6E)
+
+srteeqifaruricilis30002212
+--------------------------
+* [Listen to the whole song here](https://youtu.be/6-FTHxcC1cc)
 
 
 
