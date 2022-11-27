@@ -29,8 +29,7 @@ titatriadtoslnsnreydnuaonni22227101
 ------------------------------------
 * [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
 
-  I began writing this piece curious about the ways I could exploit the built-in MIDI capabilities of the notation software, Sibelius. This collection
-  of organized sound is the result of that exploration.
+  I began writing this piece curious about the ways I could microtonally exploit the built-in MIDI capabilities of the notation software, Sibelius. This collection of organized sound is the result of that exploration.
  
 * [View the score](https://www.dropbox.com/s/r4exdzlz0vmd0g2/titatriadtoslnsnreydnuaonni22227101.pdf?dl=0)
 
