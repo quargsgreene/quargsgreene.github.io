@@ -98,6 +98,8 @@ Homeless
 * [Listen to the entire piece here](https://www.dropbox.com/s/ztpmuyrl7o2eypm/Homeless%20-%20Mya.mp3?dl=0)
 * [View the score](https://www.dropbox.com/s/e78f8l24oq6mmnq/Homeless%20Final%201-2.pdf?dl=0)
 
+  I imagined what piece of music may accompany a majectic scene of an unhoused person enjoying a fresh donated sandwich in DTLA and above is the result.
+
 Special
 -------
 * [Listen to the whole song here](https://www.dropbox.com/s/u3tsvszdcj5so5i/Special%2011262022.mp3?dl=0)
