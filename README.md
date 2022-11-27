@@ -15,7 +15,7 @@ Eustachian Food Slide
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 
   Inspired by viewing numerous [stim boards](https://www.yourdictionary.com/stim-board) on Tumblr, Looping Shape Cereal utilizes two drum samples from the   aforementioned song, isolating them for the user's clicking, as well as providing a selection of accompanying looping visuals.
-  Watch purple squares bounce over and over or see an assortment of polygons change color until the cows come home, and more. One can also type any           favorite phrases at their own leisure in the provided form without having to worry about submission. With the use of a screen reader, the user
+  Watch purple squares bounce over and over or see an assortment of polygons change color until the cows come home, and more. One can also type any         favorite phrases at their own leisure in the provided form without having to worry about submission. With the use of a screen reader, the user
   additionally has access to hidden audio. You can also expand and contract the browser window to watch the panels go wild. 
   You can view the code [here](https://github.com/quargsgreene/Looping-Shape-Cereal).
   
@@ -78,7 +78,15 @@ astwed226011
 Quarter-Life Crisis
 -------------------
 * [Listen to the whole song here](https://www.dropbox.com/s/5721119i0h3dsx4/Quarter-life%20Crisis%20v2%20reference.mp3?dl=0)
+
+  The lyrics of this song depict the experience of my quarter-life crisis brought about by multiple musical and academic
+  training settings which lauded multiple child prodigies who were among my classmates, and are served up with a side
+  of mode mixture.
+  
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
+
+  Here is another round of guessing lyrics, without any hints.
+  
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
 Homeless
