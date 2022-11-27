@@ -1,9 +1,9 @@
 # quargsgreene.github.io
 
-Non-Sequitur - An Interactive Album
+Non-Sequitur - An Interactive Collection of Soundwaves
 ===================================
 
-Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations sprinkled throughout the song collection. For alternate versions of certain installations accompanied by less explanation, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/).
+Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations and generative visuals sprinkled throughout the song collection. For alternate versions of certain installations accompanied by less explanation, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/).
 
 Eustachian Food Slide 
 ---------------------
@@ -74,4 +74,7 @@ srteeqifaruricilis30002212
 23012112ittenidtinnoouyasanairrtsdn
 -----------------------------------
 * [Listen to the whole song here](https://youtu.be/E9RITuYATP4)
+
+[dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
+----------------------------------------------------------------
 
