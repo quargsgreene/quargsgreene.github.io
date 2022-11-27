@@ -36,15 +36,18 @@ Sex Appeal
 ----------
 * [Listen to the whole song here](https://www.dropbox.com/s/b0dlzv3la4cv7tb/Sex%20Appeal%20-%20MASTER.mp3?dl=0)
 
-I have heard many a rap song which boasts of the merits of sex appeal and conventional beauty. This song exists to provide an alternative perspective 
-on the matter.
+  I have heard many a rap song which boasts of the merits of sex appeal and conventional beauty. This song exists to provide an alternative perspective 
+  on the matter.
 
 * [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 
-The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-dimensional 
-flesh monster into a configuration of your liking. You just might enjoy it more than twerking.
+  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking.
 
 * [Lyrics Game](https://quargsgreene.github.io/Lyrics-Game/)
+  Simultaneously view letters which make up a subset of the lyrics to Sex Appeal scurry rapidly across the page, as well as exist scrambled in
+  a line. You may try to guess, using the form provided, which lyric is being shown and will receive feedback regarding the corectness of your guess
+  Stuck? Well, two hints are available to assist the user.
+  
 
 Wasted
 ------
