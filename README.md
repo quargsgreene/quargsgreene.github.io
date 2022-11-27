@@ -44,6 +44,7 @@ Sex Appeal
   The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking.
 
 * [Lyrics Game](https://quargsgreene.github.io/Lyrics-Game/)
+
   Simultaneously view letters which make up a subset of the lyrics to Sex Appeal scurry rapidly across the page, as well as exist scrambled in
   a line. You may try to guess, using the form provided, which lyric is being shown and will receive feedback regarding the corectness of your guess
   Stuck? Well, two hints are available to assist the user.
@@ -52,12 +53,27 @@ Sex Appeal
 Wasted
 ------
 * [Listen to the whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
+  
+ This song lyrically explores my journey of working to break the cycle of addiction within my family.
+  
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
+
+  Like Looping Shape Cereal, I once more became inspired by the idea of stim boards and created a three-dimensional version. 
+  With just one click of the 'Wee!' button, the user can watch flesh-textured and cone meshes in the shape of fusilli pasta rotate and move around the       scene while also having the capability to click in order to rotate the scene such that one has the choice of multiple different groupings of instruments
+  to emphasize within the above song during streaming.
+  
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
+
+  The user must click the 'q: ecruosnoitcaferardnasnoisserpmocehtdnif' button in order to be perceptually transported inside of an internet chimney
+  and exist among a variety of nondescript meshes. In the distance lies a spinning cube streaming the aforementioned song, which the user has the
+  ability to navigate towards in order to customize the listening experience.
+  
 
 astwed226011
 ------------
 * [Watch the entire video here](https://youtu.be/T9q97PY4oRA)
+
+  This is a ground up version of the song directly above accompanied by a pixelated visual of three people talking.
 
 Quarter-Life Crisis
 -------------------
