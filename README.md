@@ -5,8 +5,9 @@ Non-Sequitur - An Interactive Album
 
 Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations For alternate versions of certain installations accompanied by less explanation, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/).
 
-Eustachian Food Slide [Listen to the whole song here] (https://www.dropbox.com/s/5btburvpop4sp0n/Eustachian%20Food%20Slide%202%2048k%2010192022.mp3?dl=0)
+Eustachian Food Slide 
 ---------------------
+* [Listen to the whole song here](https://www.dropbox.com/s/5btburvpop4sp0n/Eustachian%20Food%20Slide%202%2048k%2010192022.mp3?dl=0)
 * [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
 * [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
 
