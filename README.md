@@ -14,6 +14,7 @@ Eustachian Food Slide
 titatriadtoslnsnreydnuaonni22227101
 ------------------------------------
 * [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
+* [View the score](https://www.dropbox.com/s/r4exdzlz0vmd0g2/titatriadtoslnsnreydnuaonni22227101.pdf?dl=0)
 
 Sex Appeal
 ----------
