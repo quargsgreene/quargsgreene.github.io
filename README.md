@@ -148,18 +148,23 @@ Linda Johnson
 -------------
 
 * [Listen to the entire piece here](https://www.dropbox.com/s/jff72fusnpbhl58/Linda%20Johnson%20-%207_31_17%2C%205.21%20PM.mp3?dl=0)
+
   This grouping of sound waves produced by viola, synthesizers, and household percussion came from the score of Live, a feature film I scored back in       2018.
 
 srteeqifaruricilis30002212
 --------------------------
 * [Listen to the whole song here](https://youtu.be/6-FTHxcC1cc)
+
   This is a reconfigured version of the song Quarter-Life Crisis, accompanied by a demo of the Soot Oatmeal installation.
 
 23012112ittenidtinnoouyasanairrtsdn
 -----------------------------------
 * [Listen to the whole song here](https://youtu.be/E9RITuYATP4)
+
   I present to you a duet between a home video and synth noise with a percolated and rainbow aesthetic.
 
 [dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
 ----------------------------------------------------------------
+
+  Here are some flashing colors to enhance your collective viewing.
 
