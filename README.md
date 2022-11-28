@@ -19,7 +19,7 @@ Eustachian Food Slide
   additionally has access to hidden audio. You can also expand and contract the browser window to watch the panels go wild. 
   You can view the code [here](https://github.com/quargsgreene/Looping-Shape-Cereal).
   
-* [Mustard Aquarium](https://quargsgreene.github.io/Mustard-Aquarium/)
+* [Mustard Aquarium](https://quargsgreene.github.io/mustard-aquarium/)
 
   When the user presses the 'Eustachian Food Slide' button, the aforementioned song will be streamed at a random speed and direction between between        0 (exclusive) and 2 (inclusive) times the original speed. While the audio streams, the amplitude data from the audio file will appear
   in a visualizer on the screen which is shared between a collection of yellow rectangles and circles in an assortment of colors.
