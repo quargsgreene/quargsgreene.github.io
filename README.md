@@ -58,13 +58,13 @@ Wasted
   
 * [Rotating Flesh Spirals](https://quargsgreene.github.io/rotating-flesh-spirals/)
 
-  Like [Looping Shape Cereal](https://github.com/quargsgreene/looping-shape-cereal), I once more became inspired by the idea of stim boards and created a   three-dimensional version. With just one click of the 'Wee!' button, the user can watch flesh-textured and cone meshes in the shape of fusilli pasta       rotate and move around the scene while also having the capability to click in order to rotate the scene such that one has the choice of multiple           different groupings of instruments to emphasize within the above song during streaming. You can view the code [here](https://github.com/quargsgreene/rotating-flesh-spirals).
+  Like [Looping Shape Cereal](https://github.com/quargsgreene/looping-shape-cereal), I once more became inspired by the idea of stim boards and created a   three-dimensional version. With just one click of the 'Wee!' button, the user can watch flesh-textured and cone meshes in the shape of fusilli pasta       rotate and move around the scene while also having the capability to click in order to rotate the scene such that one has the choice of multiple           different groupings of instruments to emphasize within the corresponding song during streaming. You can view the code [here](https://github.com/quargsgreene/rotating-flesh-spirals).
   
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
   The user must click the 'q: ecruosnoitcaferardnasnoisserpmocehtdnif' button in order to be perceptually transported inside of an internet chimney
   and exist among a variety of nondescript meshes. In the distance lies a spinning cube streaming the aforementioned song, which the user has the
-  ability to navigate towards in order to customize the listening experience.
+  ability to navigate towards in order to customize the listening experience. You can view the code [here](https://github.com/quargsgreene/equivocal-pixel-chimney/tree/main).
   
 
 astwed226011
