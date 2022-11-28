@@ -43,11 +43,11 @@ Sex Appeal
 
   The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
 
-* [Lyrics Game](https://quargsgreene.github.io/Lyrics-Game/)
+* [Lyrics Game](https://quargsgreene.github.io/lyrics-game/)
 
   Simultaneously view letters which make up a subset of the lyrics to Sex Appeal scurry rapidly across the page, as well as exist scrambled in
   a line. You may try to guess, using the form provided, which lyric is being shown and will receive feedback regarding the corectness of your guess.
-  Stuck? You're in luck! Two hints are available to assist the user.
+  Stuck? You're in luck! Two hints are available to assist the user. You can view the code [here](https://github.com/quargsgreene/lyrics-game)
   
 
 Wasted
