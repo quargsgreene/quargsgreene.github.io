@@ -138,10 +138,13 @@ Don't Touch
 
 * [tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
 
+  Click anywhere on the screen and hear every scale degree of the above song at once.
+
 42202011dthncutoo
 -----------------
 
 * [Listen to the whole song here](https://youtu.be/ENsHo1oKV6E)
+* 
   This adulterated version of Don't Touch accompanies a zoomed up, multiply filtered, and variable speed rendition of Looping Shape Cereal.
 
 Linda Johnson
