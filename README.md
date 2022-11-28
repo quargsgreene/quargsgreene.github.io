@@ -1,6 +1,6 @@
 # quargsgreene.github.io
 
-Non-Sequitur - An Interactive Collection of Soundwaves
+Non-Sequitur - An interactive collection of sound waves
 ===================================
 
 Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations, completely out of context quotes, and generative visuals sprinkled throughout the song collection. For alternate versions of certain installations accompanied by less explanation, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/). Enjoy!
