@@ -12,12 +12,12 @@ Eustachian Food Slide
   Ever wonder what music could accompany the fantastical situation of food sliding unscathed down one's Eustachian tubes?
   Well, now you know.
 
-* [Looping Shape Cereal](https://quargsgreene.github.io/Looping-Shape-Cereal/)
+* [Looping Shape Cereal](https://quargsgreene.github.io/looping-shape-cereal/)
 
   Inspired by viewing numerous [stim boards](https://www.yourdictionary.com/stim-board) on Tumblr, Looping Shape Cereal utilizes two drum samples from the   aforementioned song, isolating them for the user's clicking, as well as providing a selection of accompanying looping visuals.
   Watch purple squares bounce over and over or see an assortment of polygons change color until the cows come home, and more. One can also type any         favorite phrases at their own leisure in the provided form without having to worry about submission. With the use of a screen reader, the user
   additionally has access to hidden audio. You can also expand and contract the browser window to watch the panels go wild. 
-  You can view the code [here](https://github.com/quargsgreene/Looping-Shape-Cereal).
+  You can view the code [here](https://github.com/quargsgreene/looping-shape-cereal).
   
 * [Mustard Aquarium](https://quargsgreene.github.io/mustard-aquarium/)
 
