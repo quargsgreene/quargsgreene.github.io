@@ -41,7 +41,7 @@ Sex Appeal
 
 * [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 
-  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking.
+  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
 
 * [Lyrics Game](https://quargsgreene.github.io/Lyrics-Game/)
 
