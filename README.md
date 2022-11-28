@@ -47,7 +47,7 @@ Sex Appeal
 
   Simultaneously view letters which make up a subset of the lyrics to Sex Appeal scurry rapidly across the page, as well as exist scrambled in
   a line. You may try to guess, using the form provided, which lyric is being shown and will receive feedback regarding the corectness of your guess.
-  Stuck? Well, two hints are available to assist the user.
+  Stuck? You're in luck! Two hints are available to assist the user.
   
 
 Wasted
@@ -121,12 +121,21 @@ Special
 Cherry Stem
 -----------
 * [Listen to the entire piece here](https://www.dropbox.com/s/850hjqyc14wbkfp/01022021%20Quargs%20Greene%20Cherry%20Stem%2015%20s%209%20.wav?dl=0)
-  I present you with 15 seconds of music which also accompanies an ad for WM Tarr whiskey.
+
+  I present you with 15 seconds of music which also accompanies an advertisement for WM Tarr whiskey.
 
 Don't Touch
 -----------
 * [Listen to the whole song here](https://www.dropbox.com/s/l8irhx3ns0i6dyn/Don%27t%20Touch%20v2%2011262022.mp3?dl=0)
+
+  This song is a plea for uninterrupted bodily autonomy.
+  
 * [Long Spider Leg Submersion](https://quargsgreene.github.io/long-spider-leg-submersion/)
+
+  In this installation, one can once more guess lyrics while also having the opportunity to learn a new fact about underwear.
+  Hints are available for when the user becomes stumped and a complementary L-system resembling a very large shower-shriveled
+  spider is available for viewing.
+
 * [tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
 
 42202011dthncutoo
