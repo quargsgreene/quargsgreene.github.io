@@ -129,8 +129,8 @@ Don't Touch
 * [Long Spider Leg Submersion](https://quargsgreene.github.io/long-spider-leg-submersion/)
 
   In this installation, one can once more guess lyrics while also having the opportunity to learn a new fact about underwear.
-  Hints are available for when the user becomes stumped and a complementary L-system resembling a very large shower-shriveled
-  spider is available for viewing.
+  Hints are available for when the user becomes stumped and a complementary microphone-influenced L-system resembling a very large shower-shriveled
+  spider is available for viewing. You can view the code [here](https://github.com/quargsgreene/long-spider-leg-submersion).
 
 * [tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
 
@@ -140,8 +140,7 @@ Don't Touch
 -----------------
 
 * [Listen to the whole song here](https://youtu.be/ENsHo1oKV6E)
-* 
-  This adulterated version of Don't Touch accompanies a zoomed up, multiply filtered, and variable speed rendition of Looping Shape Cereal.
+* This adulterated version of Don't Touch accompanies a zoomed up, multiply filtered, and variable speed rendition of Looping Shape Cereal.
 
 Linda Johnson
 -------------
