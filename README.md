@@ -106,7 +106,7 @@ Special
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 
   View the frequency at which each word within the lyrics occurs. You may also input a number of moles and find out how many ways you can arrange
-  them in a circle. Screen reader users also have access to the number of occurrences of each word.
+  them in a circle. Screen reader users also have access to the number of occurrences of each word. You can view the code [here](https://github.com/quargsgreene/word-frequency-salad).
 
   
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
