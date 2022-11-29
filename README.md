@@ -81,7 +81,7 @@ Quarter-Life Crisis
   
 * [Lyrics Game II](https://quargsgreene.github.io/Lyrics-Game-II/)
 
-  Here is another round of guessing lyrics, without any hints.
+  Here is another round of guessing lyrics.
   
 * [Soot Oatmeal](https://quargsgreene.github.io/Soot-Oatmeal/)
 
