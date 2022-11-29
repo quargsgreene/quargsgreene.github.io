@@ -134,7 +134,7 @@ Don't Touch
 
 * [tchnouodt52212012](https://quargsgreene.github.io/tchnouodt52212012/)
 
-  Click anywhere on the screen and hear every scale degree of a major scale at once.
+  Click anywhere on the screen and hear every scale degree of a subset major scale of the song's scale at once.
   
 42202011dthncutoo
 -----------------
