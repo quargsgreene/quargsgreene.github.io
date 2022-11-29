@@ -81,13 +81,13 @@ Quarter-Life Crisis
   
 * [Lyrics Game II](https://quargsgreene.github.io/lyrics-game-II/)
 
-  Here is another round of guessing lyrics. You can view the code [here](https://github.com/quargsgreene/lyrics-game-II)
+  Here is another round of guessing lyrics. You can view the code [here](https://github.com/quargsgreene/lyrics-game-II).
   
 * [Soot Oatmeal](https://quargsgreene.github.io/soot-oatmeal/)
 
   Here, we have another interactive stim board, this time with four panels. One can listen to a selection of synths from the above song 
   in addition to making their own music by pressing and holding the 'Flatulent sulking! Keep on pushin'' button while dragging one's cursor, watching a     circular display of one word from the song loop through a color gradient, take unique screenshot selfies, and use one's cursor to draw chaotically
-  with a combination of lines and useful phrases attached. You can view the code [here](https://github.com/quargsgreene/soot-oatmeal)
+  with a combination of lines and useful phrases attached. You can view the code [here](https://github.com/quargsgreene/soot-oatmeal).
 
 Homeless
 --------
