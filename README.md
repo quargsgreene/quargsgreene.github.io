@@ -164,5 +164,5 @@ srteeqifaruricilis30002212
 [dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
 ----------------------------------------------------------------
 
-  Here are some flashing colors to enhance your collective viewing.
+  Here are some flashing colors to enhance your collective viewing. You can view the code [here](https://github.com/quargsgreene/dsewat62222011).
 
