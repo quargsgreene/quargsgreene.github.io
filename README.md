@@ -112,7 +112,7 @@ Special
 * [Tempestuous Triangles](https://quargsgreene.github.io/tempestuous-triangles/)
 
   Have you ever wanted to use your cursor to sketch things using orange, translucent triangles? You have arrived at the correct location to do so.
-  Additionally, you may listen to a snippet of the above song and access a secret alert message using a screen reader. You can view the code [here](https://github.com/quargsgreene/tempestuous-triangles/blob/main/README.md)
+  Additionally, you may listen to a snippet of the above song and access a secret alert message using a screen reader. You can view the code [here](https://github.com/quargsgreene/tempestuous-triangles/blob/main/README.md).
 
 Cherry Stem
 -----------
