@@ -34,12 +34,11 @@ Sex Appeal
 ----------
 * [Listen to the whole song here](https://www.dropbox.com/s/b0dlzv3la4cv7tb/Sex%20Appeal%20-%20MASTER.mp3?dl=0)
 
-  I have heard many a rap song which boasts of the merits of sex appeal and conventional beauty. This song exists to provide an alternative perspective 
-  on the matter.
+  This song challegnes the idea of traditional sex appeal and beauty culture.
 
 * [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 
-  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
+  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking. Make sure the page has loaded before clicking the start button. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
 
 * [Lyrics Game](https://quargsgreene.github.io/lyrics-game/)
 
