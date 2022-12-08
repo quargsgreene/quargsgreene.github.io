@@ -16,7 +16,7 @@ Eustachian Food Slide
 
   Tech Stack: HTML, CSS, p5.js
 
-  Inspired by viewing numerous [stim boards](https://www.yourdictionary.com/stim-board) on Tumblr, Looping Shape Cereal utilizes two drum samples from the   aforementioned song, isolating them for the user's clicking, as well as providing a selection of accompanying looping visuals.
+  Inspired by viewing numerous [stim boards](https://www.yourdictionary.com/stim-board) on Tumblr, Looping Shape Cereal utilizes two drum samples from the   aforementioned song, isolating them for the user's clicking of the '$' and '#' buttons, as well as providing a selection of accompanying looping visuals.
   Watch purple squares bounce over and over or see an assortment of polygons change color until the cows come home, and more. One can also type any         favorite phrases at their own leisure in the provided form without having to worry about submission. One can also generate more squiggles and ellipses     on the page via making noise into one's microphone. With the use of a screen reader, the user additionally has access to hidden audio. You can also       expand and contract the browser window to watch the panels go wild. You can view the code [here](https://github.com/quargsgreene/looping-shape-cereal).
   
 * [Mustard Aquarium](https://quargsgreene.github.io/mustard-aquarium/)
@@ -44,7 +44,7 @@ Sex Appeal
 
    Tech Stack: HTML, CSS, Three.js
 
-  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster into a configuration of your liking. Make sure the page has loaded before clicking the start button. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
+  The song above will stream while you have the chance to use your mouse, finger, and/or trackpad or toe to manipulate the body parts of a three-           dimensional flesh monster via clicking and dragging each textured body part into a configuration of your liking. Make sure the page has loaded before clicking the start button. You can view the code [here](https://github.com/quargsgreene/meat-suit-scrambler/tree/main).
 
 * [Lyrics Game](https://quargsgreene.github.io/lyrics-game/)
 
@@ -65,7 +65,7 @@ Wasted
   
   Tech Stack: HTML, CSS, Three.js
 
-  Like [Looping Shape Cereal](https://github.com/quargsgreene/looping-shape-cereal), I once more became inspired by the idea of stim boards and created a   three-dimensional version. With just one click of the 'Wee!' button, the user can watch elbow and hand flesh-textured and cone meshes in the shape of fusilli pasta rotate and move around the scene while also having the capability to click in order to rotate the scene such that one has the choice of multiple different groupings of instruments to emphasize within the corresponding song during streaming. You can view the code [here](https://github.com/quargsgreene/rotating-flesh-spirals).
+  Like [Looping Shape Cereal](https://github.com/quargsgreene/looping-shape-cereal), I once more became inspired by the idea of stim boards and created a   three-dimensional version. With just one click of the 'Wee!' button, the user can watch elbow and hand flesh-textured and cone meshes in the shape of fusilli pasta rotate and move around the scene while also having the capability to click in order to rotate the scene such that one has the choice of multiple different groupings of instruments to emphasize within the corresponding song during streaming using one's cursoor. You can view the code [here](https://github.com/quargsgreene/rotating-flesh-spirals).
   
 * [Equivocal Pixel Chimney](https://quargsgreene.github.io/equivocal-pixel-chimney/dist/index.html)
 
@@ -73,7 +73,7 @@ Wasted
 
   The user must click the 'q: ecruosnoitcaferardnasnoisserpmocehtdnif' button in order to be perceptually transported inside of an internet chimney
   and exist among a variety of nondescript meshes. In the distance lies a spinning cube streaming the aforementioned song, which the user has the
-  ability to navigate towards in order to customize the listening experience. You can view the code [here](https://github.com/quargsgreene/equivocal-pixel-chimney/tree/main).
+  ability to navigate towards via the cursor in order to customize the listening experience. You can view the code [here](https://github.com/quargsgreene/equivocal-pixel-chimney/tree/main).
   
 
 astwed226011
@@ -153,7 +153,7 @@ Don't Touch
 
   Tech Stack: HTML, CSS, p5.js
 
-  In this installation, one can once more guess lyrics while also having the opportunity to learn a new fact about underwear.
+  In this installation, one can once more guess lyrics while also having the opportunity to learn a new fact about underwear via the provied forms.
   Hints are available for when the user becomes stumped and a complementary microphone-influenced L-system resembling a very large shower-shriveled
   spider is available for viewing. You can view the code [here](https://github.com/quargsgreene/long-spider-leg-submersion).
 
