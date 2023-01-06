@@ -8,7 +8,7 @@ Non-Sequitur is an collection of songs which provides the listener an alternativ
 Multiple Songs
 --------------
 
-*[Ear Slaw] (https://github.com/quargsgreene/ear-slaw)
+*[Ear Slaw](https://github.com/quargsgreene/ear-slaw)
 
 Simulteneously stream four music videos as video textures on 3D shapes!
 
