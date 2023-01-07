@@ -20,7 +20,7 @@ Clone the repository to your local machine, install all dependencies, and run th
 
 You can read a bit about my inspiration.
 
-<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 06 AM" src="https://user-images.githubusercontent.com/60993255/211085365-bdda773c-0d6d-410d-a7b9-810c2feb9fb1.png">
+<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 06 AM" src="https://user-images.githubusercontent.com/60993255/211154600-5c93b88d-b32f-4c24-8049-54ae5b7fff4e.png">
 
 After clicking "Enter", hover over "Start", click, and then wait for the videos to load.
 
