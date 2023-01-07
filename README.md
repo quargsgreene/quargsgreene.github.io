@@ -26,6 +26,8 @@ After clicking "Enter", hover over "Start", click, and then wait for the videos 
 
 <img width="1378" alt="Screen Shot 2023-01-06 at 11 19 56 AM" src="https://user-images.githubusercontent.com/60993255/211085377-362d1245-8583-47b2-9898-cc4e66f2a581.png">
 
+Tech stack: TypeScript, React, Next.js, Three.js, React-three-fiber
+
 
 Eustachian Food Slide 
 ---------------------
