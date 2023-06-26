@@ -5,31 +5,6 @@ Non-Sequitur - An interactive collection of sound waves
 
 Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations, completely out of context quotes, and generative visuals sprinkled throughout the song collection. I am responsible for all of the performance involving vocals, viola, mandolin, and synthesizers. I also wrote every single note and lyric and am the programmer behind all of the code. For alternate versions of certain installations accompanied by less explanation, work in other genres, some research, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/). Enjoy!
 
-Multiple Songs
---------------
-
-* [Ear Slaw (CODE HERE!)](https://github.com/quargsgreene/ear-slaw) 
-
-Tech stack: TypeScript, React, Next.js, Three.js, React-three-fiber
-
-Simulteneously stream four music videos as video textures on 3D shapes!
-
-<img width="1313" alt="Screen Shot 2023-01-06 at 11 25 34 AM" src="https://user-images.githubusercontent.com/60993255/211085319-b5ec38bc-4a2c-46c4-94e8-de17723983eb.png">
-
-Clone the repository to your local machine, install all dependencies, and run the "build" and then "start" scripts.
-
-<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 16 AM" src="https://user-images.githubusercontent.com/60993255/211085349-0f11ba79-800d-4594-b1c2-be1250b30786.png">
-
-You can read a bit about my inspiration.
-
-<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 06 AM" src="https://user-images.githubusercontent.com/60993255/211154600-5c93b88d-b32f-4c24-8049-54ae5b7fff4e.png">
-
-After clicking "Enter", hover over "Start", click, and then wait for the videos to load.
-
-<img width="1378" alt="Screen Shot 2023-01-06 at 11 19 56 AM" src="https://user-images.githubusercontent.com/60993255/211085377-362d1245-8583-47b2-9898-cc4e66f2a581.png">
-
-Possible future features: video livestream capability, statistics on audiovisual data, fun user surveys
-
 
 Eustachian Food Slide 
 ---------------------
@@ -216,6 +191,32 @@ srteeqifaruricilis30002212
 
 [dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
 ----------------------------------------------------------------
+
+Multiple Songs
+--------------
+
+* [Ear Slaw (CODE HERE!)](https://github.com/quargsgreene/ear-slaw) 
+
+Tech stack: TypeScript, React, Next.js, Three.js, React-three-fiber
+
+Simulteneously stream four music videos as video textures on 3D shapes!
+
+<img width="1313" alt="Screen Shot 2023-01-06 at 11 25 34 AM" src="https://user-images.githubusercontent.com/60993255/211085319-b5ec38bc-4a2c-46c4-94e8-de17723983eb.png">
+
+Clone the repository to your local machine, install all dependencies, and run the "build" and then "start" scripts.
+
+<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 16 AM" src="https://user-images.githubusercontent.com/60993255/211085349-0f11ba79-800d-4594-b1c2-be1250b30786.png">
+
+You can read a bit about my inspiration.
+
+<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 06 AM" src="https://user-images.githubusercontent.com/60993255/211154600-5c93b88d-b32f-4c24-8049-54ae5b7fff4e.png">
+
+After clicking "Enter", hover over "Start", click, and then wait for the videos to load.
+
+<img width="1378" alt="Screen Shot 2023-01-06 at 11 19 56 AM" src="https://user-images.githubusercontent.com/60993255/211085377-362d1245-8583-47b2-9898-cc4e66f2a581.png">
+
+Possible future features: video livestream capability, statistics on audiovisual data, fun user surveys
+
 
   
   Tech Stack: HTML, CSS, p5.js
