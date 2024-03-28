@@ -1,4 +1,4 @@
-# quargskpg.github.io
+# quargsgreene.github.io
 
 Non-Sequitur - An interactive collection of sound waves
 ===================================
