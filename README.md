@@ -3,16 +3,11 @@
 Non-Sequitur - An interactive collection of sound waves
 ===================================
 
-Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations, completely out of context quotes, and generative visuals sprinkled throughout the song collection. I am responsible for all of the performance involving vocals, viola, mandolin, and synthesizers. I also wrote every single note and lyric and am the programmer behind all of the code. For alternate versions of certain installations accompanied by less explanation, work in other genres, some research, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://pixelatedflesh.com/](https://pixelatedflesh.com/). Enjoy!
+Non-Sequitur is an collection of songs which provides the listener an alternative multimedia experience to listening compared to streaming services such as Spotify. Here, you will find a landing page for interactive installations, completely out of context quotes, and generative visuals sprinkled throughout the song collection. I am responsible for all of the performance involving vocals, viola, mandolin, and synthesizers. I also wrote every single note and lyric and am the programmer behind all of the code. For alternate versions of certain installations accompanied by less explanation, work in other genres, some research, along with links to other social media platforms and updates regarding traditional music releases, you may visit my artist website at [https://quargskpgreene.com](https://quargskpgreene.com). Enjoy!
 
 
 Eustachian Food Slide 
 ---------------------
-* [Listen to the whole song here](https://www.dropbox.com/s/5btburvpop4sp0n/Eustachian%20Food%20Slide%202%2048k%2010192022.mp3?dl=0)
-
-  Ever wonder what music could accompany the fantastical situation of food sliding unscathed down one's Eustachian tubes?
-  Well, now you know.
-
 * [Looping Shape Cereal](https://quargsgreene.github.io/looping-shape-cereal/)
 
   Tech Stack: HTML, CSS, p5.js
@@ -30,16 +25,12 @@ Eustachian Food Slide
 
 titatriadtoslnsnreydnuaonni22227101
 ------------------------------------
-* [Listen to the entire piece here](https://www.youtube.com/watch?v=MgWBTjZ3WhU)
 * [View the score](https://www.dropbox.com/s/r4exdzlz0vmd0g2/titatriadtoslnsnreydnuaonni22227101.pdf?dl=0)
 
    I began writing this piece curious about the ways I could exploit the built-in MIDI capabilities of the notation software, Sibelius. This collection of    organized sound is the result of that exploration.
 
 Sex Appeal
 ----------
-* [Listen to the whole song here](https://www.dropbox.com/s/b0dlzv3la4cv7tb/Sex%20Appeal%20-%20MASTER.mp3?dl=0)
-
-  This song challegnes the idea of traditional sex appeal and beauty culture.
 
 * [Meat Suit Scrambler](https://quargsgreene.github.io/meat-suit-scrambler/dist/index.html)
 
@@ -58,7 +49,6 @@ Sex Appeal
 
 Wasted
 ------
-* [Listen to the whole song here](https://www.dropbox.com/s/norm89no5cfhdnn/Wasted%20Mix%2011182022.mp3?dl=0)
   
   This song lyrically explores my journey of working to break the cycle of addiction within my family amid many meter changes.
   
@@ -79,13 +69,11 @@ Wasted
 
 astwed226011
 ------------
-* [Watch the entire video here](https://youtu.be/T9q97PY4oRA)
 
   This is a ground up version of the song directly above accompanied by a pixelated visual of three people talking.
 
 Quarter-Life Crisis
 -------------------
-* [Listen to the whole song here](https://www.dropbox.com/s/5721119i0h3dsx4/Quarter-life%20Crisis%20v2%20reference.mp3?dl=0)
 
   Tech Stack: HTML, CSS, p5.js
 
@@ -107,19 +95,8 @@ Quarter-Life Crisis
   in addition to making their own music by pressing and holding the 'Flatulent sulking! Keep on pushin'' button while dragging one's cursor, watching a     circular display of one word from the song loop through a color gradient, take unique screenshot selfies, and use one's cursor to draw chaotically
   with a combination of lines and useful phrases attached. You can view the code [here](https://github.com/quargsgreene/soot-oatmeal).
 
-Homeless
---------
-* [Listen to the entire piece here](https://www.dropbox.com/s/ztpmuyrl7o2eypm/Homeless%20-%20Mya.mp3?dl=0)
-* [View the score](https://www.dropbox.com/s/e78f8l24oq6mmnq/Homeless%20Final%201-2.pdf?dl=0)
-
-  I imagined what piece of music may accompany a majectic scene of an unhoused person enjoying a fresh donated sandwich in DTLA and above is the result.
-  Many thanks to the musicians at the Sunset Chamberfest which made this recording possible.
-
 Special
 -------
-* [Listen to the whole song here](https://www.dropbox.com/s/u3tsvszdcj5so5i/Special%2011262022.mp3?dl=0)
-
-  This is a love song with an unexpected twist.
   
 * [Word Frequency Salad](https://quargsgreene.github.io/word-frequency-salad/)
 
@@ -136,19 +113,9 @@ Special
   Have you ever wanted to use your cursor to sketch things using orange, translucent triangles? You have arrived at the correct location to do so.
   Additionally, you may listen to a snippet of the above song and access a secret alert message using a screen reader. You can view the code [here](https://github.com/quargsgreene/tempestuous-triangles).
 
-Cherry Stem
------------
-* [Listen to the entire piece here](https://www.dropbox.com/s/850hjqyc14wbkfp/01022021%20Quargs%20Greene%20Cherry%20Stem%2015%20s%209%20.wav?dl=0)
-
-  I present you with 15 seconds of music which also accompanies an advertisement for WM Tarr whiskey.
 
 Don't Touch
 -----------
-* [Listen to the whole song here](https://www.dropbox.com/s/l8irhx3ns0i6dyn/Don%27t%20Touch%20v2%2011262022.mp3?dl=0)
-
-  Tech Stack: HTML, CSS, p5.js
-
-  This song is a plea for uninterrupted bodily autonomy.
   
 * [Long Spider Leg Submersion](https://quargsgreene.github.io/long-spider-leg-submersion/)
 
@@ -163,61 +130,6 @@ Don't Touch
   Tech Stack: HTML, CSS, p5.js
 
  Play around with the scale used in this song (bebop dominant) You can view the code [here](https://github.com/quargsgreene/tchnouodt52212012).
-  
-42202011dthncutoo
------------------
-
-* [Listen to the whole song here](https://youtu.be/ENsHo1oKV6E)
-* This adulterated version of Don't Touch accompanies a zoomed in, multiply filtered, and variable speed rendition of Looping Shape Cereal.
-
-Linda Johnson
--------------
-
-* [Listen to the entire piece here](https://www.dropbox.com/s/jff72fusnpbhl58/Linda%20Johnson%20-%207_31_17%2C%205.21%20PM.mp3?dl=0)
-
-  This grouping of sound waves produced by viola, synthesizers, and household percussion came from the score of Live, a feature film I scored back in       2018.
-
-srteeqifaruricilis30002212
---------------------------
-* [Listen to the whole song here](https://youtu.be/6-FTHxcC1cc)
-
-  This is a reconfigured version of the song Quarter-Life Crisis, accompanied by a demo of the Soot Oatmeal installation.
-
-23012112ittenidtinnoouyasanairrtsdn
------------------------------------
-* [Listen to the whole song here](https://youtu.be/E9RITuYATP4)
-
-  I present to you a duet between a home video and synth noise with a percolated and rainbow aesthetic.
-
-[dsewat62222011](https://quargsgreene.github.io/dsewat62222011/)
-----------------------------------------------------------------
-
-Multiple Songs
---------------
-
-* [Ear Slaw (CODE HERE!)](https://github.com/quargsgreene/ear-slaw) 
-
-Tech stack: TypeScript, React, Next.js, Three.js, React-three-fiber
-
-Simulteneously stream four music videos as video textures on 3D shapes!
-
-<img width="1313" alt="Screen Shot 2023-01-06 at 11 25 34 AM" src="https://user-images.githubusercontent.com/60993255/211085319-b5ec38bc-4a2c-46c4-94e8-de17723983eb.png">
-
-Clone the repository to your local machine, install all dependencies, and run the "build" and then "start" scripts.
-
-<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 16 AM" src="https://user-images.githubusercontent.com/60993255/211085349-0f11ba79-800d-4594-b1c2-be1250b30786.png">
-
-You can read a bit about my inspiration.
-
-<img width="1382" alt="Screen Shot 2023-01-06 at 11 24 06 AM" src="https://user-images.githubusercontent.com/60993255/211154600-5c93b88d-b32f-4c24-8049-54ae5b7fff4e.png">
-
-After clicking "Enter", hover over "Start", click, and then wait for the videos to load.
-
-<img width="1378" alt="Screen Shot 2023-01-06 at 11 19 56 AM" src="https://user-images.githubusercontent.com/60993255/211085377-362d1245-8583-47b2-9898-cc4e66f2a581.png">
-
-Possible future features: video livestream capability, statistics on audiovisual data, fun user surveys
-
-
   
   Tech Stack: HTML, CSS, p5.js
 
